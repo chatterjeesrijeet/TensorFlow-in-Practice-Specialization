@@ -1,0 +1,12 @@
+.DS_Store
+DATA
+Data
+*.pdf
+Analysis_Data
+*.xlsx
+*.csv
+*.zip
+*.sqlite
+*.json
+*.vvp
+.project
