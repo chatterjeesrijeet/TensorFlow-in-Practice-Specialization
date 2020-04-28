@@ -1,8 +1,7 @@
 .DS_Store
+*.pdf
 DATA
 Data
-DaTA
-*.pdf
 Analysis_Data
 *.xlsx
 *.csv
